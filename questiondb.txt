@@ -1,0 +1,4 @@
+Who is father of C Language?;Bjarne Stroustrup; Dennis Ritchie; James A. Gosling;Dr. E.F. Codd;2;2;1
+Language developed at _____?;AT & T's Bell Laboratories of USA in 1972;AT & T's Bell Laboratories of USA in 1970;Sun Microsystems in 1973;Cambridge University in 1972;1;2;2
+For 16-bit compiler allowable range for integer constants is ______ ?;3.4e38 to 3.4e38;32767 to 32768;32768 to 32767;32668 to 32667;2;3;4
+programs are converted into machine language with;An Editor;compiler;An operating system;None of the above;2;1;3
